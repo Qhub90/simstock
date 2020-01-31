@@ -1,0 +1,26 @@
+Form{
+  background-color: rgb(8, 55, 185);
+  width: 450px;
+  padding: 25px;
+  opacity: 0.9;
+  text-align: center;
+  margin: auto;
+  margin-top: 10%;
+  box-shadow: 2px 2px 8px 0 rgba( 0, 0, 0, .2 );
+  border-radius: .5rem;
+  color: black;
+  border-color: rgba( 0, 0, 0, .1 )
+}
+
+input{
+  text-align:center;
+  color: black;
+}
+
+.form-title{
+  margin-bottom: 30px;
+}
+
+.submit-button{
+  border-color: black;
+}
