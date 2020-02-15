@@ -4,6 +4,7 @@ import './App.css';
 import Navigation from './components/Navigation/Navigation'
 import Register from './components/Register/Register';
 import SignIn from './components/SignIn/SignIn';
+import UserHomePage from './pages/UserHomePage/UserHomePage';
 
 class App extends Component {
   constructor() {
@@ -18,7 +19,7 @@ class App extends Component {
       <div className="App">
       <Navigation />
 
-      <SignIn />
+      <UserHomePage />
       </div>
     );
   }

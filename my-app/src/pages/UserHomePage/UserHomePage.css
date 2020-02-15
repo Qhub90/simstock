@@ -1,0 +1,15 @@
+.main-page{
+  background-color: pink;
+  width: 90%;
+  margin: auto;
+}
+
+.card{
+  width: 50rem;
+  margin: auto;
+  text-align: center;
+}
+
+.button{
+  margin-right: 20px;
+}
